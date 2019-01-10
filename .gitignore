@@ -8,3 +8,4 @@ haters/
 .vscode/
 layout.md
 variables.env
+package-lock.json
